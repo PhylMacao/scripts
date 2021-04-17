@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
 
+# This is a script to automatize mass crafting in bistro heroes
+# because you can get some free items if you constantly keep it
+# all foods on maximum. You must have leftover energy for this.
+
 from ppadb.client import Client
 import time
 
