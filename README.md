@@ -1,1 +1,1 @@
-A repo for my janky throw-it-together scripts.
+A repo for my smaller projects and janky throw-it-together scripts.
